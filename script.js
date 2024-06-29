@@ -43,6 +43,7 @@ tl.from('#page1',{
   delay:0.2,
   y:1600,
   opacity:0,
+  duration:0.5,
   ease:Power4,
 })
 tl.to('#loader',{
